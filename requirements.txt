@@ -1,0 +1,3 @@
+google-genai
+praw
+python-dotenv
